@@ -1,0 +1,30 @@
+2024-11-29 23:28:08,895 - INFO - Trading Bot baþlatýlýyor...
+2024-11-29 23:28:08,895 - INFO - Modüller baþarýyla yüklendi
+2024-11-29 23:28:08,896 - INFO - Veriler güncelleniyor...
+2024-11-29 23:28:11,000 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:28:11,002 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:28:11,903 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:28:21,910 - INFO - Veriler güncelleniyor...
+2024-11-29 23:28:23,269 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:28:23,281 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:28:23,455 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:28:33,466 - INFO - Veriler güncelleniyor...
+2024-11-29 23:28:34,840 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:28:34,841 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:28:35,033 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:28:45,035 - INFO - Veriler güncelleniyor...
+2024-11-29 23:28:46,213 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:28:46,214 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:28:46,395 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:28:56,402 - INFO - Veriler güncelleniyor...
+2024-11-29 23:28:57,691 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:28:57,692 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:28:57,933 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:29:07,939 - INFO - Veriler güncelleniyor...
+2024-11-29 23:29:08,833 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:29:08,833 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:29:09,043 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2024-11-29 23:29:19,051 - INFO - Veriler güncelleniyor...
+2024-11-29 23:29:20,730 - INFO - Sinyal: BTC-USD - 1h - BUY - Bullish divergence
+2024-11-29 23:29:20,732 - INFO - Sinyal: BTC-USD - 1h - SELL - Bearish divergence
+2024-11-29 23:29:21,039 - ERROR - Döngü içinde hata oluþtu: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
